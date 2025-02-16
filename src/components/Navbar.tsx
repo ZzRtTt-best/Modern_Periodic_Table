@@ -24,7 +24,7 @@ const Navbar = () => {
           <TbLayoutList className="mr-5" />
         </Link>
         <Link
-          href="https://github.com/psykat1116/Modern_Periodic_Table"
+          href=""
           target="_blank"
           className="mr-5"
         >
